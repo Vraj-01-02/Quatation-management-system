@@ -187,7 +187,7 @@ const CustomerDashboard = () => {
 
       <div className="dashboard-container">
         <header className="header">
-          <h1 className="dashboard-title">Customer Dashboard</h1>
+          <h1 className="dashboard-title text-white">Customer Dashboard</h1>
           <div className="user-info">Welcome, Customer | Last Login: {new Date().toLocaleDateString()}</div>
         </header>
 
